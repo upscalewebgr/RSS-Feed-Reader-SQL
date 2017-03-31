@@ -1,0 +1,25 @@
+<!--<menu xmlns:android="http://schemas.android.com/apk/res/android"-->
+    <!--xmlns:app="http://schemas.android.com/apk/res-auto"-->
+    <!--xmlns:tools="http://schemas.android.com/tools"-->
+    <!--tools:context="com.skaliotisdev.rssfeedreader.MainActivity">-->
+
+    <!--<item-->
+        <!--android:id="@+id/action_refresh"-->
+        <!--android:showAsAction="ifRoom"-->
+        <!--android:title="Refresh"-->
+        <!--android:icon="@drawable/ic_refresh_white_24dp" />-->
+
+    <!--<item-->
+        <!--android:id="@+id/action_settings"-->
+        <!--android:orderInCategory="100"-->
+        <!--android:title="@string/action_settings"-->
+        <!--app:showAsAction="never" />-->
+
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_about"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="Σχετικά"
+        app:showAsAction="never"/>
+    </menu>

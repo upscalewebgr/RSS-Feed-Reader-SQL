@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">agrotes.eu</string>
+    <string name="app_activity_title">agrotes.eu Επικαιρότητα</string>
+    <string name="app_window_title">Παράγει Ενημέρωση</string>
+    <string name="action_settings">Σχετικά</string>
+    <string name="title_activity_add_feed">Add Rss Feed</string>
+    <string name="title_activity_edit_rss_feed">Edit Rss Feeds</string>
+    <string name="title_activity_rss_item_view">Επικαιρότητα</string>
+    <string name="title_activity_about">Σχετικά</string>
+</resources>
